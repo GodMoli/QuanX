@@ -9,8 +9,7 @@
 
 QuantumultX 莫离懒人配置
 
-配置地址：https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Qx.conf
-
+配置地址：https://raw.githubusercontent.com/GodMoli/QuanX/main/File/Auto.conf
 GitHub仓库地址：https://github.com/WSL33099
 
 电报通知频道： https://t.me/QuantX
