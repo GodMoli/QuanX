@@ -4,7 +4,7 @@
  * @author: Peng-YM
  * 修改增加多机场信息显示，以及支持多平台，图标。优化通知显示。
  * 更新地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js
- * 推荐使用mini图标组：https://github.com/Orz-3/mini
+ * 推荐使用mini图标组：https://github.com/Orz-3/mini 1
  */
 
 let subscriptions = [
